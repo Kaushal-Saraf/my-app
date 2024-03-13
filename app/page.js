@@ -1,5 +1,5 @@
 import Homeee from "@/app/Components/Homeee";
-import Boody from "./Components/boody";
+import Boody from "./Components/Boody";
 
 export default function Home() {
   return (

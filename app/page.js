@@ -1,4 +1,4 @@
-import Homeee from "@/Components/Homeee";
+import Homeee from "@/app/Components/Homeee";
 
 export default function Home() {
   return (

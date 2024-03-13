@@ -3,6 +3,7 @@ import Unlock from './Unlock'
 import Achievement from './Achievement/Achievement'
 import Calender from './Calender'
 import Customer from './Customer'
+import Communityupdate from './Communityudates/Communityupdate'
 
 const Boody = () => {
   return (
@@ -11,6 +12,7 @@ const Boody = () => {
       <Achievement/>
       <Calender/>
       <Customer/>
+      <Communityupdate/>
     </div>
   )
 }

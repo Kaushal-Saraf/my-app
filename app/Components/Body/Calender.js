@@ -1,6 +1,6 @@
 const Calender = () => {
   return (
-    <div className="flex px-[100.23px] justify-between items-center">
+    <div className="flex my-[11.27px] px-[100.23px] justify-between items-center">
       <img
         src="/calender.svg"
         alt="hello"

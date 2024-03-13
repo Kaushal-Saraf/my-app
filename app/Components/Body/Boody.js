@@ -2,6 +2,7 @@ import React from 'react'
 import Unlock from './Unlock'
 import Achievement from './Achievement/Achievement'
 import Calender from './Calender'
+import Customer from './Customer'
 
 const Boody = () => {
   return (
@@ -9,6 +10,7 @@ const Boody = () => {
       <Unlock/>
       <Achievement/>
       <Calender/>
+      <Customer/>
     </div>
   )
 }

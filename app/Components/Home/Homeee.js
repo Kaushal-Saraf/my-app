@@ -1,6 +1,6 @@
-import Community from './Community'
-import Herosection from './Herosection'
-import Client from './Client'
+import Client from "./Client"
+import Community from "./Community/Community"
+import Herosection from "./Herosection/Herosection"
 
 const Homeee = () => {
   return (

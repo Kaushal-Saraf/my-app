@@ -1,7 +1,7 @@
 import React from 'react'
-import Unlock from '../Unlock'
-import Achievement from '../Achievement'
-import Calender from '../Calender'
+import Unlock from './Unlock'
+import Achievement from './Achievement/Achievement'
+import Calender from './Calender'
 
 const Boody = () => {
   return (

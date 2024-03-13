@@ -1,6 +1,6 @@
 const Client = () => {
   return (
-    <div className="bg-white py-[22.28px]">
+    <div className="bg-white py-[11.14px] my-[11.14px]">
         <p className="text-[25.06px] text-center font-semibold text-[#4D4D4D] font-inter">
           Our Clients
         </p>

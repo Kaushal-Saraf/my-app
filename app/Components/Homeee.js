@@ -4,7 +4,7 @@ import Client from './Client'
 
 const Homeee = () => {
   return (
-    <div className='bg-[#F5F7FA]'>
+    <div className='bg-white'>
       <Herosection/>
       <Client/>
       <Community/>

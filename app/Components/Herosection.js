@@ -3,7 +3,7 @@ import Illustration from "./Illustration";
 const Herosection = () => {
   return (
     <div>
-      <div className="flex flex-wrap justify-between py-[66.82px] px-[100.23px]">
+      <div className="flex flex-wrap justify-between py-[66.82px] px-[100.23px] bg-[#F5F7FA]">
         <Frame />
         <Illustration />
       </div>

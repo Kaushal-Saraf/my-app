@@ -1,9 +1,9 @@
-import Home from "@/Components/Home";
+import Homeee from "@/Components/Homeee";
 
-export default function page() {
+export default function Home() {
   return (
-    <div className="bg-white">
-      <Home/>
-    </div>
+    <main className="bg-white">
+      <Homeee/>
+    </main>
   );
 }

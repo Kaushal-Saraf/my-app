@@ -29,7 +29,7 @@ const Header = () => {
           href={"/"}
         >
           Register Now
-          <img src="/arrow.svg" alt="hello" />{" "}
+          <img src="/arrow.svg" alt="hello" />
         </button>
       </div>
     </div>

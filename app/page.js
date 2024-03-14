@@ -4,8 +4,8 @@ import Boody from "./Components/Body/Boody";
 export default function Home() {
   return (
     <main className="bg-white">
-      <Homeee/>
-      <Boody/>
+      {/* <Homeee/>
+      <Boody/> */}
     </main>
   );
 }

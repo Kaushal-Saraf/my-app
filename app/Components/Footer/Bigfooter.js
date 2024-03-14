@@ -5,7 +5,7 @@ import Stayuptodate from "./Stayuptodate";
 
 const Bigfooter = () => {
   return (
-    <div className="flex justify-between px-[100.23px] bg-[#263238]">
+    <div className="flex flex-wrap justify-between px-[100.23px] mt-[20.88px] bg-[#263238]">
       <div className="flex-col my-[20.88px]">
         <div className="font-inter text-[9.74px] text-[#F5F7FA]">
           Copyright © 2020 Landify UI Kit.
@@ -19,7 +19,7 @@ const Bigfooter = () => {
             <Link href="/"> <img src="/socialicons4.svg"  alt="" /></Link>
         </div>
       </div>
-      <div className="flex justify-start my-[20.88px]">
+      <div className="flex flex-wrap justify-start ">
         <Company/>
         <Support/>
         <Stayuptodate/>

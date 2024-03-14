@@ -1,6 +1,6 @@
 const Stayuptodate = () => {
   return (
-    <div className="fex-col ml-[20.88px] w-[177.5px]">
+    <div className="fex-col w-[177.5px] my-[20.88px]">
       <div className="mb-[16.17px] text-white font-inter text-semibold text-[13.92px]">
         Stay up to date
       </div>

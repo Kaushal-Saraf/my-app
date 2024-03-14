@@ -2,7 +2,7 @@ import React from 'react'
 
 const Unlock = () => {
   return (
-    <div className="flex flex-wrap px-[100.23px]  my-[11.27px] justify-evenly items-center">
+    <div className="flex flex-wrap px-[10.23px] md:px-[100.23px]  my-[11.27px] justify-evenly items-center">
       <img
         src="/unlock.svg"
         alt="hello"

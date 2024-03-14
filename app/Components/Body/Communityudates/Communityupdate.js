@@ -2,7 +2,7 @@ import Communityudatecards from "./Communityudatecards";
 
 const Communityupdate = () => {
   return (
-    <div className="px-[100.23px] my-[11.74px]">
+    <div className="px-[10.23px] md:px-[100.23px] my-[11.74px]">
       <div className="py-[5.57px]">
         <p className="text-[25.06px] text-center font-semibold text-[#4D4D4D] font-inter">
           Caring is the new marketing

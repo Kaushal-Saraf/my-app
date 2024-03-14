@@ -2,7 +2,7 @@ import Communitycard from "./Communitycard";
 
 const Community = () => {
   return (
-    <div className="px-[100.23px] my-[11.14px] py-[11.14px]  bg-white">
+    <div className="px-[10.23px] md:px-[100.23px] my-[11.14px] py-[11.14px]  bg-white">
       <p className="text-[25.06px] text-center font-semibold text-[#4D4D4D] font-inter">
         Manage your entire community
       </p>

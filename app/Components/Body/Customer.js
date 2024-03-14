@@ -1,6 +1,6 @@
 const Customer = () => {
   return (
-    <div className="flex flex-wrap items-center align-middle justify-evenly px-[100.23px]  my-[11.27px] bg-[#F5F7FA] ">
+    <div className="flex flex-wrap items-center align-middle justify-evenly px-[10.23px] md:px-[100.23px]  my-[11.27px] bg-[#F5F7FA] ">
       <img
         className="w-[226.92px] h-[226.92px] object-cover"
         src="/customer.png"

@@ -1,6 +1,6 @@
 const Calender = () => {
   return (
-    <div className="flex flex-wrap my-[11.27px] px-[100.23px] justify-evenly items-center ">
+    <div className="flex flex-wrap my-[11.27px] px-[10.23px] md:px-[100.23px] justify-evenly items-center ">
       <img
         src="/calender.svg"
         alt="hello"

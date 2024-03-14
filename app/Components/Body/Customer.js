@@ -1,12 +1,12 @@
 const Customer = () => {
   return (
-    <div className="flex items-center align-middle justify-between px-[100.23px]  my-[11.27px] bg-[#F5F7FA] ">
+    <div className="flex flex-wrap items-center align-middle justify-evenly px-[100.23px]  my-[11.27px] bg-[#F5F7FA] ">
       <img
-        className="w-[226.92px] h-[226.92px]"
+        className="w-[226.92px] h-[226.92px] object-cover"
         src="/customer.png"
         alt="hello"
       />
-      <div className="flex-col p-[22.27px]">
+      <div className="flex-col p-[22.27px] w-[520.66px]">
         <p className="font-inter font-medium text-[11.14px]">
           Maecenas dignissim justo eget nulla rutrum molestie. Maecenas lobortis
           sem dui, vel rutrum risus tincidunt ullamcorper. Proin eu enim metus.
@@ -25,7 +25,7 @@ const Customer = () => {
         <p className="font-inter text-[11.14px] text-[#89939E]">
           British Dragon Boat Racing Association
         </p>
-        <div className="flex justify-between items-center my-[22.27px]">
+        <div className="flex flex-wrap justify-evenly items-center my-[22.27px]">
           <img src="/customer1.svg" alt="image" />
           <img src="/customer2.svg" alt="image" />
           <img src="/customer3.svg" alt="image" />

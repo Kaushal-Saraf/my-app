@@ -2,7 +2,7 @@ import Achievementcard from "./Achievementcard";
 
 const Achievement = () => {
   return (
-    <div className="my-[11.27px] px-[100.23px] py-[44.55px] bg-[#F5F7FA] flex justify-between align-middle items-center">
+    <div className="my-[11.27px] px-[100.23px] py-[44.55px] bg-[#F5F7FA] flex flex-wrap justify-evenly align-middle items-center">
       <div className="flex-col  w-[375.88px]">
         <p className="text-[25.06px] font-semibold text-[#4D4D4D] font-inter">
         Helping a local 

@@ -14,7 +14,7 @@ const Communityupdate = () => {
           and lot's more.​
         </p>
       </div>
-      <div className="flex justify-between">
+      <div className="flex flex-wrap justify-evenly">
         <Communityudatecards imageUrl="/customerupdate1.png" text1="Creating Streamlined Safeguarding Processes with OneRen"/>
         <Communityudatecards imageUrl="/customerupdate2.png" text1="What are your safeguarding responsibilities and how can you manage them?"/>
         <Communityudatecards imageUrl="/customerupdate3.png" text1="Revamping the Membership Model with Triathlon Australia"/>

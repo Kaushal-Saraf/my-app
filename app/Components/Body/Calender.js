@@ -1,12 +1,12 @@
 const Calender = () => {
   return (
-    <div className="flex my-[11.27px] px-[100.23px] justify-between items-center">
+    <div className="flex flex-wrap my-[11.27px] px-[100.23px] justify-evenly items-center ">
       <img
         src="/calender.svg"
         alt="hello"
-        className="w-[307.66px] h-[301.4px]"
+        className="w-[307.66px] h-[301.4px] object-cover"
       />
-      <div className="flex-col">
+      <div className="flex-col  w-[460.1px]">
         <p className="font-inter text-[25.06px] font-semibold">
           How to design your site footer like we did
         </p>

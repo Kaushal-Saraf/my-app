@@ -2,11 +2,11 @@ import React from 'react'
 
 const Unlock = () => {
   return (
-    <div className="flex px-[100.23px]  my-[11.27px] justify-between items-center">
+    <div className="flex flex-wrap px-[100.23px]  my-[11.27px] justify-evenly items-center">
       <img
         src="/unlock.svg"
         alt="hello"
-        className="w-[307.66px] h-[301.4px]"
+        className="w-[307.66px] h-[301.4px] object-cover"
       />
       <div className='flex-col'>
         <p className='font-inter text-[25.06px] font-semibold'>

@@ -8,7 +8,7 @@ const Unlock = () => {
         alt="hello"
         className="w-[307.66px] h-[301.4px] object-cover"
       />
-      <div className='flex-col'>
+      <div className='flex-col w-[460.1px]'>
         <p className='font-inter text-[25.06px] font-semibold'>
         The unseen of spending three years at Pixelgrade
         </p>

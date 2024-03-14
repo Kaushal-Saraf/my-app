@@ -1,6 +1,6 @@
 const Achievementcard = ({ imageUrl, text1, text2 }) => {
   return (
-    <div className="w-[177.5px] h-[43px] flex items-center">
+    <div className="w-[177.5px] h-[43px] my-[27.84px] flex items-center">
       <img
         className=""
         src={imageUrl}

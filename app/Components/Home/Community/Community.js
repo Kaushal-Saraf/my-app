@@ -12,7 +12,7 @@ const Community = () => {
       <p className="text-center text-[11.14px] font-normal text-[#717171] my-[5px]">
         Who is Nextcent suitable for?
       </p>
-      <div className="flex flex-wrap justify-between">
+      <div className="flex flex-wrap justify-evenly">
        <Communitycard imageUrl="/communitycard1.svg" text1="Membership Organisations" text2="Our membership management software provides full automation of membership renewals and payments"/>
        <Communitycard imageUrl="/communitycard2.svg" text1="National Associations" text2="Our membership management software provides full automation of membership renewals and payments"/>
        <Communitycard imageUrl="/communitycard3.svg" text1="Clubs And Groups" text2="Our membership management software provides full automation of membership renewals and payments"/>

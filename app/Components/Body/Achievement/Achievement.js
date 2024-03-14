@@ -15,11 +15,11 @@ const Achievement = () => {
         </p>
       </div>
       <div className=" flex-col justify-between w-[375.88px]">
-        <div className="flex justify-between my-[27.84px]">
+        <div className="flex flex-wrap justify-evenly">
            <Achievementcard imageUrl="/achievement1.svg" text1="2,245,341" text2="Member"/>
            <Achievementcard imageUrl="/achievement2.svg" text1="46,328" text2="Club"/>
         </div>
-        <div className="flex justify-between">
+        <div className="flex flex-wrap justify-evenly ">
            <Achievementcard imageUrl="/achievement3.svg" text1="828,867" text2="Event Bookings"/>
            <Achievementcard imageUrl="/achievement4.svg" text1="1,926,436" text2="Payments"/>
         </div>
